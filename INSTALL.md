@@ -107,3 +107,9 @@ spell checking to work completely.
 ```sh
 YOUR_DOWNLOAD_PATH/keepnote-X.Y.X/bin/keepnote
 ```
+
+Using homebrew
+```sh
+brew install gtk pygtk
+brew install pygtk --with-libglade
+```
